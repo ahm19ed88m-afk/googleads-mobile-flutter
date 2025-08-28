@@ -24,8 +24,6 @@ flutter:
       android:
         package: io.flutter.plugins.googlemobileads
         pluginClass: GoogleMobileAdsPlugin
-      ios:
-        pluginClass: FLTGoogleMobileAdsPlugin
 
 dependencies:
   meta: ^1.10.0
