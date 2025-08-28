@@ -12,7 +12,7 @@ Google Mobile Ads plugin for Flutter.
   s.license          = { :file => '../LICENSE' }
   s.author           = { 'Flutter Team' => 'flutter-dev@googlegroups.com' }
   s.source           = { :path => '.' }
-  s.source_files = 'Classes/**/*.{h,m}'
+  # s.source_files = 'Classes/**/*.{h,m}'
   s.public_header_files = 'Classes/**/*.h'
   s.dependency 'Flutter'
   # s.dependency 'Google-Mobile-Ads-SDK','~> 12.2.0'
